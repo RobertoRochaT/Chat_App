@@ -10,14 +10,6 @@
 
 ---
 
-<a style="" href="https://chat-application-jack.vercel.app/">
-  
-![Macbook-Air-Iphone-13](https://github.com/user-attachments/assets/24edbef0-083f-44d4-9717-3e659ecb404b)
-
-</a>
-
----
-
 ## Project Overview
 
 _A real-time **Chat application** built using the MERN stack (MongoDB, Express, React, Node.js) and styled with Tailwind CSS. It supports user authentication, group chats, and instant messaging with real-time updates via Socket.IO. The application is fully responsive and provides smooth communication with features like notifications and state management using Redux._
