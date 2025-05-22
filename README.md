@@ -40,7 +40,7 @@ The Chat-App provides comprehensive messaging functionality with the following c
 ### Authentication & User Management
 - User registration and login with email/password
 - JWT-based session management
-- External authentication provider support (Champa-Facil API)
+- External authentication provider support (Chamba-Facil API)
 - Secure logout functionality
 
 ### Real-time Messaging
