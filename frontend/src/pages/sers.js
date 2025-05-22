@@ -3,7 +3,7 @@
 import fetch from 'node-fetch';
 
 const testFreelancerId = '6825767dab80053066409b96'; // Your test ID
-const apiUrl = `${import.meta.VITE_BACKEND_URL_USRS}freelancers/${testFreelancerId}/chat`;
+const apiUrl = `${import.meta.env.VITE_BACKEND_URL_USRS}/freelancers/${testFreelancerId}/chat`;
 
 console.log(`Testing API endpoint: ${apiUrl}`);
 
